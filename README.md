@@ -8,7 +8,7 @@ Tools yang digunakan untuk membuat project ini :
 Sistem Operasi yang digunakan :
 1.  Mac OS Catalina (10.15.6)
 
-Match Tree ini terdapat beberapa tambahan mekanik-mekanik seperti :
+Match Three ini terdapat beberapa tambahan mekanik-mekanik seperti :
 1. **Timer** dan **Score view**
 2. Membuat **Score Multiplier (combo)** yang bertambah setiap match tile, dan direset ketika *swipe* namun tidak match.
 3. 1 special *tile* yang jika *tile* itu *match*, *tile* itu akan menghancurkan satu jenis *tile* pada papan permainan
